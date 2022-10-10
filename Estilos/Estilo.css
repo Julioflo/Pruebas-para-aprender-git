@@ -26,7 +26,7 @@ h1{
 }
 .cabecera{
     background-color: rgb(255, 153, 0);
-    color: white;
+    color: rgb(240, 11, 11);
     width: 250px;
     height: 70px;
     border: 1px solid greenyellow;
