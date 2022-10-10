@@ -24,3 +24,16 @@ h1{
     border-radius: 50%;
     
 }
+.cabecera{
+    background-color: rgb(255, 153, 0);
+    color: white;
+    width: 250px;
+    height: 70px;
+    border: 1px solid greenyellow;
+    text-align: center;
+    font-weight: bold
+    -webkit-box-shadow: 37px 41px 89px 15px rgba(255,255,255,1);
+    -moz-box-shadow: 37px 41px 89px 15px rgba(255,255,255,1);
+    box-shadow: 37px 41px 89px 15px rgba(255,255,255,1);
+
+}
